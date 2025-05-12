@@ -12,13 +12,19 @@ builder.Services.AddDbContext <RestaurantDbContext> (option =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontendApp", policy =>
+    {
+        policy.WithOrigins("https://restaurant-app-liart-gamma.vercel.app")
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
 var app = builder.Build();
 
-app.UseCors(builder => builder
-       .AllowAnyHeader()
-       .AllowAnyMethod()
-       .AllowAnyOrigin()
-    );
+app.UseCors("AllowFrontendApp");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -35,4 +41,3 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
