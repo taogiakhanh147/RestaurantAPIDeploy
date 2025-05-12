@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7932AC79-4777-43C6-A3F3-A6BE73739F33}|Solution Items{7932AC79-4777-43C6-A3F3-A6BE73739F33}|D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\Dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7932AC79-4777-43C6-A3F3-A6BE73739F33}|Solution Items{7932AC79-4777-43C6-A3F3-A6BE73739F33}|solutionrelative:Dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|d:\\tonghopweb\\restaurant_app(reactjs,asp.netcore)\\restaurantapi\\restaurantapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|d:\\tonghopweb\\restaurant_app(reactjs,asp.netcore)\\restaurantapi\\restaurantapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|d:\\tonghopweb\\restaurant_app(reactjs,asp.netcore)\\restaurantapi\\restaurantapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|d:\\tonghopweb\\restaurant_app(reactjs,asp.netcore)\\restaurantapi\\restaurantapi\\models\\ordermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\models\\ordermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|d:\\tonghopweb\\restaurant_app(reactjs,asp.netcore)\\restaurantapi\\restaurantapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|d:\\tonghopweb\\restaurant_app(reactjs,asp.netcore)\\restaurantapi\\restaurantapi\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|d:\\tonghopweb\\restaurant_app(reactjs,asp.netcore)\\restaurantapi\\restaurantapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|d:\\tonghopweb\\restaurant_app(reactjs,asp.netcore)\\restaurantapi\\restaurantapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|d:\\tonghopweb\\restaurant_app(reactjs,asp.netcore)\\restaurantapi\\restaurantapi\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|d:\\tonghopweb\\restaurant_app(reactjs,asp.netcore)\\restaurantapi\\restaurantapi\\models\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298B0B85-0C3D-452A-A87C-12AFAA1722D2}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\models\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,97 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile.txt",
-              "DocumentMoniker": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\Dockerfile.txt",
-              "RelativeDocumentMoniker": "Dockerfile.txt",
-              "ToolTip": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\Dockerfile.txt",
-              "RelativeToolTip": "Dockerfile.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-04-29T15:17:56.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FoodItemController.cs",
-              "DocumentMoniker": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Controllers\\FoodItemController.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Controllers\\FoodItemController.cs",
-              "ToolTip": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Controllers\\FoodItemController.cs",
-              "RelativeToolTip": "RestaurantAPI\\Controllers\\FoodItemController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T08:01:06.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "RestaurantAPI\\Controllers\\CustomerController.cs",
               "ToolTip": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "RestaurantAPI\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAA6AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T06:50:10.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "RestaurantAPI\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAzwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T08:13:13.852Z",
+              "WhenOpened": "2025-05-12T11:49:59.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OrderMaster.cs",
-              "DocumentMoniker": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Models\\OrderMaster.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Models\\OrderMaster.cs",
-              "ToolTip": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Models\\OrderMaster.cs",
-              "RelativeToolTip": "RestaurantAPI\\Models\\OrderMaster.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:54:52.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Models\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Models\\OrderDetail.cs",
-              "ToolTip": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Models\\OrderDetail.cs",
-              "RelativeToolTip": "RestaurantAPI\\Models\\OrderDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:54:29.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FoodItem.cs",
-              "DocumentMoniker": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Models\\FoodItem.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Models\\FoodItem.cs",
-              "ToolTip": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Models\\FoodItem.cs",
-              "RelativeToolTip": "RestaurantAPI\\Models\\FoodItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:53:30.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "RestaurantAPI\\Models\\Customer.cs",
@@ -140,7 +55,47 @@
               "RelativeToolTip": "RestaurantAPI\\Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:52:55.272Z"
+              "WhenOpened": "2025-05-12T09:26:14.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Program.cs",
+              "ToolTip": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Program.cs",
+              "RelativeToolTip": "RestaurantAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:04:23.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestaurantDbContext.cs",
+              "DocumentMoniker": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Models\\RestaurantDbContext.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Models\\RestaurantDbContext.cs",
+              "ToolTip": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\Models\\RestaurantDbContext.cs",
+              "RelativeToolTip": "RestaurantAPI\\Models\\RestaurantDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:55:19.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantAPI\\appsettings.json",
+              "ToolTip": "D:\\TongHopWeb\\Restaurant_App(ReactJS,ASP.NETCORE)\\RestaurantAPI\\RestaurantAPI\\appsettings.json",
+              "RelativeToolTip": "RestaurantAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T08:51:51.121Z",
+              "EditorCaption": ""
             }
           ]
         }

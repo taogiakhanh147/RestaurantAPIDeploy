@@ -12,8 +12,8 @@ namespace RestaurantAPI.Migrations
                 name: "Customers",
                 columns: table => new
                 {
-                    CustomerId = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
+                    CustomerId = table.Column<int>(type: "INTEGER", nullable: false)
+                        .Annotation("Sqlite:Autoincrement", true),
                     CustomerName = table.Column<string>(type: "nvarchar(100)", nullable: false)
                 },
                 constraints: table =>
@@ -25,10 +25,10 @@ namespace RestaurantAPI.Migrations
                 name: "FoodItems",
                 columns: table => new
                 {
-                    FoodItemId = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
+                    FoodItemId = table.Column<int>(type: "INTEGER", nullable: false)
+                        .Annotation("Sqlite:Autoincrement", true),
                     FoodItemName = table.Column<string>(type: "nvarchar(100)", nullable: false),
-                    Price = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
+                    Price = table.Column<decimal>(type: "TEXT", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -39,12 +39,12 @@ namespace RestaurantAPI.Migrations
                 name: "OrderMasters",
                 columns: table => new
                 {
-                    OrderMasterId = table.Column<long>(type: "bigint", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    OrderNumber = table.Column<string>(type: "nvarchar(75)", nullable: false),
-                    CustomerId = table.Column<int>(type: "int", nullable: false),
-                    PMethod = table.Column<string>(type: "nvarchar(10)", nullable: false),
-                    GTotal = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
+                    OrderMasterId = table.Column<long>(type: "INTEGER", nullable: false)
+                        .Annotation("Sqlite:Autoincrement", true),
+                    OrderNumber = table.Column<string>(type: "nvarchar(75)", nullable: true),
+                    CustomerId = table.Column<int>(type: "INTEGER", nullable: false),
+                    PMethod = table.Column<string>(type: "nvarchar(10)", nullable: true),
+                    GTotal = table.Column<decimal>(type: "TEXT", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -61,12 +61,12 @@ namespace RestaurantAPI.Migrations
                 name: "OrderDetails",
                 columns: table => new
                 {
-                    OrderDetailId = table.Column<long>(type: "bigint", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    OrderMasterId = table.Column<long>(type: "bigint", nullable: false),
-                    FoodItemId = table.Column<int>(type: "int", nullable: false),
-                    FoodItemPrice = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
-                    Quantity = table.Column<int>(type: "int", nullable: false)
+                    OrderDetailId = table.Column<long>(type: "INTEGER", nullable: false)
+                        .Annotation("Sqlite:Autoincrement", true),
+                    OrderMasterId = table.Column<long>(type: "INTEGER", nullable: false),
+                    FoodItemId = table.Column<int>(type: "INTEGER", nullable: false),
+                    FoodItemPrice = table.Column<decimal>(type: "TEXT", nullable: false),
+                    Quantity = table.Column<int>(type: "INTEGER", nullable: false)
                 },
                 constraints: table =>
                 {
